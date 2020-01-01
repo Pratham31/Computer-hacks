@@ -1,0 +1,23 @@
+A]Create a Shutdown Shortcut-
+
+1.Right click on desktop.
+2.Choose New and then choose shortcut.
+3.Type Shutdown -s -f -t 00 in location or given MENU.
+4.And then click Next,then type name of shortcut as per your wish.
+5.Done.
+6.You can also change icon from Properties.
+
+B]create a Restart Shortcut-
+
+1.Right click on desktop.
+2.Choose New and then choose shortcut.
+3.Type Shutdown -r -f -t 00 in location or given MENU.
+4.And then click Next,then type name of shortcut as per your wish.
+5.Done.
+6.You can also change icon from Properties.
+
+C]Create your personal diary using Notepad-
+
+1.Open Notepad.
+2.Type .LOG(IN CAPITAL LETTERS) in body and then save the file.
+3.Now every time you open the Notepad it will automatically insert current DATE and TIME before the note.
